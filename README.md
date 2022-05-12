@@ -9,4 +9,4 @@ Open with Live Server.
 
 ## Tech Stack
 
-Javascript, CSS, Firebase and HTML.
+Javascript, CSS & HTML.
