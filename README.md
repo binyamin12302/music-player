@@ -1,6 +1,5 @@
 # Introduction
-Beautifully designed music player, 
-you can play the next song and previous song and pause the song.
+Beautifully designed music player.
 
 # Setup
 
